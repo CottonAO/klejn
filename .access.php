@@ -1,10 +1,11 @@
 <?
+$PERM["lk-pokupatelya"]["8"]="W";
+$PERM["lk-pokupatelya"]["6"]="R";
+$PERM["lk-pokupatelya"]["7"]="X";
+$PERM["lk-pokupatelya"]["*"]="D";
 $PERM["lk-prodavtsa"]["8"]="W";
 $PERM["lk-prodavtsa"]["7"]="R";
 $PERM["lk-prodavtsa"]["*"]="D";
-$PERM["lk-pokupatelya"]["8"]="W";
-$PERM["lk-pokupatelya"]["7"]="R";
-$PERM["lk-pokupatelya"]["*"]="D";
 $PERM["index_inc.php"]["8"]="W";
 $PERM["index.php"]["8"]="W";
 $PERM["index.php"]["5"]="W";
