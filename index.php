@@ -74,7 +74,7 @@ $APPLICATION->SetTitle("Мебельная компания");
 		"FIELD_CODE" => array("",""),
 		"IBLOCKS" => array(),
 		"IBLOCK_TYPE" => "news",
-		"NEWS_COUNT" => "20",
+		"NEWS_COUNT" => "9",
 		"SORT_BY1" => "ACTIVE_FROM",
 		"SORT_BY2" => "SORT",
 		"SORT_ORDER1" => "DESC",
